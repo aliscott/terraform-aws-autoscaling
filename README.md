@@ -11,7 +11,7 @@ Available features
 
 ## Usage
 
-<a href="http://localhost:3000/playground?repoUrl=https://github.com/terraform-aws-modules/terraform-aws-vpc"><img src="https://img.shields.io/static/v1?label=infracost&message=$100&color=blueviolet" /></a>
+<a href="http://localhost:3000/playground?repoUrl=https://github.com/terraform-aws-modules/terraform-aws-autoscaling"><img src="https://img.shields.io/static/v1?label=monthly cost&message=$9.36&color=blueviolet" /></a>
 
 ```hcl
 module "asg" {
